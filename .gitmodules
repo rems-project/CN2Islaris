@@ -1,0 +1,20 @@
+[submodule "cerberus"]
+	path = cerberus
+	url = https://github.com/rems-project/cerberus.git
+	branch = CN2Islaris
+[submodule "islaris"]
+	path = islaris
+	url = https://github.com/rems-project/islaris.git
+	branch = CN2Islaris
+[submodule "read-dwarf"]
+	path = read-dwarf
+	url = https://github.com/rems-project/read-dwarf.git
+[submodule "isla"]
+	path = isla
+	url = https://github.com/rems-project/isla.git
+[submodule "isla-snapshots"]
+	path = isla-snapshots
+	url = https://github.com/rems-project/isla-snapshots.git
+[submodule "isla-lang"]
+	path = isla-lang
+	url = https://github.com/rems-project/isla-lang
